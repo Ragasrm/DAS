@@ -39,6 +39,7 @@ function reverseString(string) {
     rightPointer -= 1;
   }
 
+  
   console.log(string.length, iterations);
 
   return strArray.join('');

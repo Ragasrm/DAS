@@ -54,6 +54,7 @@ function twoSums(array=[], target) {
       const whatWeNeed = target - currentElement;
   
       requiredNumbers.add(whatWeNeed);
+      
     }
   
     return false;

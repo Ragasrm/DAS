@@ -40,6 +40,7 @@ function insert(array, index, value) {
   
     console.log('>>>', rightHalf, leftHalf);
   
+    
     console.log(rightHalf.concat(leftHalf)); // O(N)
   }
   

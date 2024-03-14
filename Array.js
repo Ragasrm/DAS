@@ -124,7 +124,7 @@ array.remove(1)
 // console.log(array.get(4))
 // console.log(array.get(5))
 
-array.pop();
+// array.pop();
 // array.pop();
 // array.pop();
 // array.pop();
